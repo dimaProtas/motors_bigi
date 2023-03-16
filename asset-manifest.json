@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/motors_bigi/static/css/main.a2d7787f.css",
-    "main.js": "/motors_bigi/static/js/main.f7390da4.js",
+    "main.js": "/motors_bigi/static/js/main.cf216a4d.js",
     "static/css/905.0d904cbf.chunk.css": "/motors_bigi/static/css/905.0d904cbf.chunk.css",
     "static/js/905.ff2b1104.chunk.js": "/motors_bigi/static/js/905.ff2b1104.chunk.js",
     "static/css/132.8c430b08.chunk.css": "/motors_bigi/static/css/132.8c430b08.chunk.css",
@@ -17,7 +17,7 @@
     "static/media/avatar.png": "/motors_bigi/static/media/avatar.046a69984c6e86df92fa.png",
     "index.html": "/motors_bigi/index.html",
     "main.a2d7787f.css.map": "/motors_bigi/static/css/main.a2d7787f.css.map",
-    "main.f7390da4.js.map": "/motors_bigi/static/js/main.f7390da4.js.map",
+    "main.cf216a4d.js.map": "/motors_bigi/static/js/main.cf216a4d.js.map",
     "905.0d904cbf.chunk.css.map": "/motors_bigi/static/css/905.0d904cbf.chunk.css.map",
     "905.ff2b1104.chunk.js.map": "/motors_bigi/static/js/905.ff2b1104.chunk.js.map",
     "132.8c430b08.chunk.css.map": "/motors_bigi/static/css/132.8c430b08.chunk.css.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.a2d7787f.css",
-    "static/js/main.f7390da4.js"
+    "static/js/main.cf216a4d.js"
   ]
 }
