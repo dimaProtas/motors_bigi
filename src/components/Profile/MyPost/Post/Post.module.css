@@ -1,0 +1,44 @@
+.item {
+  color: #fff;
+  background-color: #3e8fa0;
+  padding: 10px;
+  margin: 20px;
+  width: 90%;
+  display: flex;
+  align-items: center;
+}
+
+.item img {
+  margin-right: 10px;
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+}
+
+.name_user {
+  margin-bottom: 5px;
+}
+
+.like_icon {  
+  padding: 5px;
+  position: relative;
+  left: 750px;
+  background-color: #222;
+  border-radius: 30px;
+  width: 50px;
+  display: flex;
+}
+
+.icon {
+  margin-right: 5px;
+}
+
+.icon:hover {
+  color: red;
+  outline: none;
+  font-size: 18px;
+}
+
+.num_like {
+  font-size: 12px;
+}
